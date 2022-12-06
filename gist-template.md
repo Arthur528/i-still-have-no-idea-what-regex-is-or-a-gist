@@ -1,4 +1,7 @@
-# No Clue
+# Hexi-decimals
+[The Martian](https://www.youtube.com/watch?v=NttUBB98zg4)
+Doing my research I felt like I was learning a new language.
+
 
 If you have ever *wondered* how **search** works, 
 its all about *finding* ***patterns***. <br />
