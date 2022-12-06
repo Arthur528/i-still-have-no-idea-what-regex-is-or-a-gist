@@ -264,6 +264,8 @@ er</div></p
 
 ## Author
 
-https://github.com/Arthur528
+Kevin C. Cain, USN
 
-[![](https://visitcount.itsvg.in/api?id=Arthur528&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+UW Coding Bootcamp
+
+https://github.com/Arthur528
