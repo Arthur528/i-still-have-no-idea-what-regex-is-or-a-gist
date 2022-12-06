@@ -264,4 +264,8 @@ er</div></p
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+https://github.com/Arthur528
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Arthur528&label=Profile%20Views&color=1&pretty=false" />
+</a>
