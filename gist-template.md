@@ -1,10 +1,26 @@
-# Title (replace with your title)
+# No Clue
 
-Introductory paragraph (replace this with your text)
+If you have ever *wondered* how **search** works, 
+its all about *finding* ***patterns***. <br />
+While a *search engine* will have sophisticated 
+[search algorithms](http://en.wikipedia.org/wiki/Search_algorithm) at their
+*core* are searches for patterns in text.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A regular expression is a pattern we search for in text.
+
+Imagine you want to check if an email address is well correct when someone
+is filling in a form.
+One way of doing this would be to try *sending* an email to the address and
+waiting for a reply or "[bounce](http://en.wikipedia.org/wiki/Bounce_message)" 
+(error)...
+(*obviously* this is a *terrible* idea! sending email is time consuming)
+A far more efficient way of checking email validity is to use a regular
+expression that will tell us in a milisecond 
+if the email matches a valid pattern.
+
+![email regex](http://i.imgur.com/7rV4c56.jpg "email regex")
 
 ## Table of Contents
 
@@ -41,7 +57,9 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ### Boundaries
 
 ### Back-references
-
+The Martian 4K HDR | First Contact
+https://www.youtube.com/watch?v=NttUBB98zg4
+Doing my research I felt like I was learning a new language.
 ### Look-ahead and Look-behind
 
 ## Author
