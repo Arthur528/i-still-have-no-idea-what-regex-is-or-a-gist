@@ -266,6 +266,4 @@ er</div></p
 
 https://github.com/Arthur528
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Arthur528&label=Profile%20Views&color=1&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Arthur528&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
